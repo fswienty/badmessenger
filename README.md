@@ -8,4 +8,4 @@ This is a messenger connects to a google sheet and writes messages to it, togeth
 Run badmessenger.py to start or build an executable by running build.bat. Building requires pyinstaller. The build script is for windows, but should run fine on linux with some changes.
 
 ## Demonstration
-https://studio.youtube.com/video/lijkHKO2lyc/edit
+https://www.youtube.com/watch?v=lijkHKO2lyc
